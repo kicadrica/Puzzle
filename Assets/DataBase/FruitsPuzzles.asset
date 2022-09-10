@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b6e70878adc1fb47b3c06e4167fc6ff, type: 3}
+  m_Name: FruitsPuzzles
+  m_EditorClassIdentifier: 
+  TypeOfPuzzle: 1
+  PuzzlesList:
+  - {fileID: 1895922332716123542, guid: 887e936facc8a6a409b27b1e1dbfe4b8, type: 3}
+  - {fileID: 481986957080229636, guid: 0d361340c6fa9ec40a9051f8c31341b4, type: 3}
+  - {fileID: 1307885297868437805, guid: 5477bd624d147da469aca2e345b2d53e, type: 3}
+  - {fileID: 3356554994168660194, guid: 6c8037a8a99ed55478886203e2498bfb, type: 3}
+  - {fileID: 5889025814549739132, guid: 484c53ba22756d248988869460b8858f, type: 3}
+  - {fileID: 7409491809590013751, guid: b036be52c0adc8946a420cb27c1b0e64, type: 3}
+  - {fileID: 2706119055759375303, guid: 73a3a33a544601545bc79e3d8abdaf5d, type: 3}
+  - {fileID: 225631370388387889, guid: f0834685107694542bbc90581b77c386, type: 3}
+  - {fileID: 530306233365161492, guid: 7c0a4a01e9dc4e64bb4127ed2a1f0449, type: 3}
+  - {fileID: 7568187437705290056, guid: 61d90339dd2bbc443973a131d190cd61, type: 3}
+  - {fileID: 1423271632113118136, guid: 503d999baf72ac8459ce114e14099ccc, type: 3}
+  - {fileID: 8328396320323018608, guid: 7dd0ad583c66a564985ec8eb9590eb11, type: 3}
